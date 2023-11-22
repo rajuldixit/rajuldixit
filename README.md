@@ -1,5 +1,7 @@
 ### Hi there 👋 I am Rajul!
 
+-----
+I am a Frontend Developer (React js, Node js) based in Edinburgh, Scotland
 <!--
 **rajuldixit/rajuldixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
