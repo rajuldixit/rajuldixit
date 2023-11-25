@@ -2,7 +2,7 @@
 
 -----
 I am a Frontend Developer (React js, Node js) based in Edinburgh, Scotland
-<a href=”https://www.linkedin.com/in/rajul-dixit-5522b310b/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+<a href=“https://www.linkedin.com/in/rajul-dixit-5522b310b/”><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 <!--
 **rajuldixit/rajuldixit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
