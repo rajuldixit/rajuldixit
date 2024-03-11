@@ -17,7 +17,7 @@ I am a Fullstack Developer 💻 (React js, Node js) based in Edinburgh, Scotland
 
 ## 🌱 I'm currently learning
 
-- Monorepos
+- Micro-Frontend
 - Next js
 
 ## 💼 Technical Skills
