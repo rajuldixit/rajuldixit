@@ -12,8 +12,7 @@ I am a Fullstack Developer 💻 (React js, Node js) based in Edinburgh, Scotland
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
-- Book Lib App (React js and express app)
-- Human resources app (MERN app, RTK-Query with redux)
+- Foodie Delight (React js, RTK-Query, Nextui, tailwind,Material UI, Node js, Express js)
 
 ## 🌱 I'm currently learning
 
