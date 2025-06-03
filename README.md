@@ -3,7 +3,7 @@
 -----
 
 <h2 align="center">
-I am a Fullstack Developer 💻 (React js, Node js) based in Edinburgh, Scotland 
+I am a Fullstack Developer 💻 (React js, Node js) based in Dublin, Ireland
 </h2>
 
 ### 🤝 Connect with me: <a href="https://www.linkedin.com/in/rajul-dixit-5522b310b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
@@ -16,8 +16,7 @@ I am a Fullstack Developer 💻 (React js, Node js) based in Edinburgh, Scotland
 
 ## 🌱 I'm currently learning
 
-- Micro-Frontend
-- Next js
+- Cloud Computing
 
 ## 💼 Technical Skills
 
