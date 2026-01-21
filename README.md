@@ -12,7 +12,7 @@ I am a Fullstack Developer 💻 (React js, Node js) based in Dublin, Ireland
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## 🔭 I'm currently working on
-- Foodie Delight (React js, RTK-Query, Nextui, tailwind,Material UI, Node js, Express js)
+- A visa application decision support system using machine learning and AWS cloud services
 
 ## 🌱 I'm currently learning
 
